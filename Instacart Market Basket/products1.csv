@@ -79,7 +79,7 @@ product_id,product_name,aisle_id,department_id
 44203,Crystal Pacifier,82,18
 6949,Creamy Broth with Mackerel & Vegetables Cat Food,41,8
 4829,Life Wheat + Protein Bread,100,21
-36362,Baked Crackers, Cheddar Cheese,48,14
+36362,Baked Crackers Cheddar Cheese,48,14
 4470,Cherry Liquid Drink Mix,90,7
 11800,Italian Castelvetrano Whole Green Olives,110,13
 315,Creamy Italian Dressing Marinade,89,13
@@ -96,7 +96,7 @@ product_id,product_name,aisle_id,department_id
 38625,Tomato Sauce With Basil,9,9
 7599,Sensor 2 Plus Disposable Razors,55,11
 4730,Original Toothbrush Soft Right,20,11
-29960,Acini di Pepe, No. 78,131,9
+29960,Acini di Pepe, 78,131
 7515,Spinach And Ricotta Ravioli,2,16
 42849,Ice Cream Cones,61,19
 15556,Original Sliced Grand Cru Cheese,21,16
@@ -109,7 +109,7 @@ product_id,product_name,aisle_id,department_id
 22272,Gluten Free Matzo Ball & Soup Mix,33,6
 1031,Cold Remedy Orange Cream Ultra RapidMelt,11,11
 24466,Moroccan Red Clay and Argan Stem Cell Pore Minimizing Facial Scrub,109,11
-20076,RRRuffles Have Ridges Reduced Fat Potato Chips,107,19
+20076,Ruffles Have Ridges Reduced Fat Potato Chips,107,19
 9593,Grilled Salmon Feast in Gravy Cat Food,41,8
 39051,Organic Tropical Fruit Blend,116,1
 41006,Organic Onion Powder,104,13
@@ -117,14 +117,14 @@ product_id,product_name,aisle_id,department_id
 19792,L-Glutamine Dietary Supplement,47,11
 33055,Organic Golden Delicious Apple,24,4
 1705,Disney Frozen Fruit Flavored Snacks,50,19
-6751,Drink Tabs, Strawberry Lemonade,64,7
+6751,Drink Tabs Strawberry Lemonade,64,7
 13657,Coleslaw Dressing Calorie Free,89,13
 9268,Organic Fruit Spread Wild Blueberry,88,13
 14204,Organic White Meat Chicken Pie,38,1
 35006,Glycerin Hand Soap Rosemary,25,11
 34830,Tini Twists Pretzels,107,19
 16228,Pad Thai Noodle Bowl,66,6
-8995,Oatmeal, Instant, Banana Maple with Flax,130,14
+8995,Oatmeal Instant, Banana Maple with Flax,130,14
 22782,Original Key Lime Pie Yogurt,120,16
 3919,Hearty Grains 100% Whole Wheat English Muffins,93,3
 11221,Rotini Pasta With Three Cheese Sauce,4,9
@@ -132,7 +132,7 @@ product_id,product_name,aisle_id,department_id
 16704,Bag Pink Lady Apples,123,4
 13390,Deli Deluxe 2% Milk American Cheese Slices,21,16
 9027,Drink Original Unsweetened,91,16
-3212,Vinegar, Red Wine,19,13
+3212,Vinegar Red Wine,19,13
 6677,Organic Whole Mushrooms,123,4
 8649,Variety Snaps With Real Beef/Chicken/Liver & Lamb Flavors,40,8
 34457,100% Organic Unbleached White Whole Wheat Flour,17,13
@@ -168,7 +168,7 @@ product_id,product_name,aisle_id,department_id
 42698,Hot Pork Sausage,52,1
 28093,Pork Potsticker,129,1
 30856,Whole Grain White Hamburger Buns,43,3
-20377,Water Chestnuts, Sliced, No Salt Added,66,6
+20377,Water Chestnuts Sliced, No Salt Added,66,6
 18330,Click Gel Automatic Citrus Scent Toilet Bowl Cleaner,114,17
 27457,100 Grand Fun Size Bars,45,19
 16471,Chocolate Decorating Decors,97,13
@@ -216,7 +216,7 @@ product_id,product_name,aisle_id,department_id
 23893,Original Perkys Crunchy Rice Cereal,121,14
 11633,Sweet & Tangy Glaze and Dipping Sauce,66,6
 10821,Reduced Fat Colby Jack Cheese Sticks,21,16
-16733,Polish, Silver, Bottle,114,17
+16733,Polish Silver, Bottle,114,17
 36803,Macro Greens,116,1
 10594,Christmas Crunch,121,14
 4614,Burrata alla Panna,21,16
@@ -225,10 +225,10 @@ product_id,product_name,aisle_id,department_id
 4316,Cheese Trio Quiche,38,1
 6425,Everyones Favorite Chocolate Chip Cookie Mix,105,13
 10744,Chicken Noodle R&W Condensed Soup Family Size,69,15
-3264,Muesli, Bircher (Unsweetened),57,14
+3264,Muesli Bircher (Unsweetened),57,14
 26780,Superfood Pesto Sauce,9,9
 45080,Body Bar Soap Milk & Honey Complexion,25,11
-29661,Chardonnay, Premium Dealcoholized Wine, 2011,62,5
+29661,Chardonnay Premium Dealcoholized Wine, 2011,62,5
 30822,Thirst Quencher Lemon-Lime/Fruit Punch/Orange Variety Pack Sports Drink,64,7
 23790,Total Moisture Aloe Fresh Hydrating Lotion,127,11
 19388,Mushroom Steak Sauce,100,21
@@ -249,7 +249,7 @@ product_id,product_name,aisle_id,department_id
 38533,Creamy Deluxe Macaroni Dinner Elbows & Four Cheese Sauce,4,9
 35617,Disinfecting Wipes Citrus Scent,114,17
 8791,Lundberg 9.5 Oz,107,19
-42761,Sweet Dreams Magickal Mineral Bath Salt Jasmine,Sandalwood & Vanilla,25,11
+42761,Sweet Dreams Magickal Mineral Bath Salt Jasmine Sandalwood & Vanilla,25,11
 27698,Garlic Bread Pepperoni Pizza,79,1
 22724,Family Size Macaroni & Cheese,38,1
 42150,Pull-Ups Learning Designs Training Pantsfor Girls, Size 3T-4T,56,18
@@ -258,12 +258,12 @@ product_id,product_name,aisle_id,department_id
 6809,Berry Bunnies Cereal Organic,121,14
 28788,Vermont Cheddar Mac & Cheese,100,21
 22284,Sweet & Salty Popped Snack Mix,125,19
-9929,6\ Organic Chocolate Cake,8,3
+9929, Organic Chocolate Cake,8,3
 4806,Oat Milk Soap,25,11
 27818,Liquid Eggs Whites,86,16
 20832,Potato Chips, Original Lightly Salted,107,19
 25653,Organic Plain Yogurt,120,16
-36343,9\ Pie Shell,58,1
+36343,9 Pie Shell,58,1
 33899,Red Wine Blend,28,5
 29131,Color Revitalize Protection for Color Treated Hair Conditioner,22,11
 293,Prime Filets Chicken & Tuna Dinner in Gravy Cat Food,41,8
@@ -325,14 +325,14 @@ product_id,product_name,aisle_id,department_id
 30568,Go Fresh Cool Essentials Anti-Perspirant Deodorant,80,11
 43459,Puffs Cheese Flavored Snacks,107,19
 26013,Organic Dried Papaya,50,19
-23474,Couscous, Israeli, Traditional,63,9
+23474,Couscous Israeli Traditional,63,9
 34355,Spearmint Sugar-Free Gum,46,19
 9977,Paws Xl,100,21
 23150,Vegetable Classics 99% Fat Free Lentil Soup,69,15
 10260,Zingz Queso Fundido Baked Snack Crackers,78,19
 39175,Chunk White Albacore in Water,95,15
 44617,Propolis Eucalyptus Manuka Honey Lozenge,100,21
-21229,Brown, Red & Black Ready Rice,63,9
+21229,Brown Red & Black Ready Rice,63,9
 32123,Whole Ground Golden Flaxseed Meal,17,13
 22168,Whole Maine Cherrystone Clams,95,15
 47510,Designer Paper Plates 7 In,111,17
@@ -385,7 +385,7 @@ product_id,product_name,aisle_id,department_id
 25783,Lemon Lime Thirst Quencher,64,7
 6803,Rose Lemonade,98,7
 40800,Gluten Free Rice Bread,58,1
-27099,Peanuts, Caramel and Chewy Nougat Chocolate Candy Bar,45,19
+27099,Peanuts Caramel and Chewy Nougat Chocolate Candy Bar,45,19
 17382,Catnip Mice Skitter Critters,41,8
 9958,Honey Smoked Turkey Breast,96,20
 25161,High Life Beer Cans,27,5
@@ -395,7 +395,7 @@ product_id,product_name,aisle_id,department_id
 44123,Colby Jack Cheese Sticks,21,16
 31878,Package Kiwi,123,4
 11282,Indulgent Coconut Milk Body Wash,127,11
-26389,Multi-Purpose 8\ Scissors,87,17
+26389,Multi-Purpose 8 Scissors,87,17
 5349,Original Plus Vitamins & Minerals Cat Food,41,8
 16841,Soap Saver 2 Pack,87,17
 11098,Organic Sencha Green Tea,66,6
@@ -560,7 +560,7 @@ product_id,product_name,aisle_id,department_id
 6263,Vinters Collection Chardonnay,62,5
 46598,Shake N Bake Extra Crispy Seasoned Coating Mix,105,13
 17952,Flings Original 3-in-1 Laundry Detergent Pacs,75,17
-8566,Almond Butter, Smooth/Unsalted,88,13
+8566,Almond Butter Smooth/Unsalted,88,13
 29862,Uniquely Sharp Mustard,72,13
 12893,Mushroom Cabbage Pierogi with Fresh Sauerkraut & Onion,38,1
 15663,Mac and Cheese Shells & White Cheddar Cheese,4,9
@@ -648,7 +648,7 @@ product_id,product_name,aisle_id,department_id
 5866,Bianco Organic Whole Peeled Tomatos,81,15
 35128,Pastina Pasta,131,9
 9862,Cold Pressed Fuji Apple Juice,31,7
-38698,Popcorn, Yellow,23,19
+38698,Popcorn Yellow,23,19
 23130,Organic Sliced Bamboo Shoots,81,15
 2060,Alphabet Cookies  Cinnamon Graham,61,19
 26949,Tempt Unsweetened Original Hemp Milk,91,16
@@ -679,7 +679,7 @@ product_id,product_name,aisle_id,department_id
 33487,Orange Liquid Water Enhancer,90,7
 21908,Chile Ancho,30,6
 7531,Cookies & Cream Baked Graham Snacks,61,19
-6986,Diapers, Overnight, Free & Clear, Size 6 (35+ lbs),56,18
+6986,Diapers Overnight Free & Clear, Size 6 (35+ lbs),56,18
 40076,Smoked Mozzarella Cheese,13,20
 4265,Chocolate Covered Gluten Free Wafer Bites,61,19
 13085,Organic Hot Cocoa Mix,64,7
@@ -734,7 +734,7 @@ product_id,product_name,aisle_id,department_id
 19322,Original Flax Milk Dairy Free Protein+,91,16
 22324,Pink Vodka Sauce,9,9
 12430,Pain Eze Muscular Tension Tablets,118,11
-45731,Diced Tomatoes with Oregano, Garlic & Basil,81,15
+45731,Diced Tomatoes with Oregano Garlic & Basil,81,15
 19139,Honey BBQ Popcorn,23,19
 32425,Major Dickasons Blend Dark Roast Coffee,26,7
 43298,Belgian White Beer,27,5
@@ -745,9 +745,9 @@ product_id,product_name,aisle_id,department_id
 49494,Domingo Rojo Beans,59,15
 29988,Chocolate Granola Bars,3,19
 6940,Monterey Jack Style Cheese,21,16
-4230,Leave-In Conditioner, Argan Oil Plus +, Moisture Rich,22,11
+4230,Leave-In Conditioner Argan Oil Plus Moisture Rich,22,11
 19794,Toasted Coconut Chips Caramel Sea Salt,50,19
-41952,Cheese Pizza Sticks, Cheese,100,21
+41952,Cheese Pizza Sticks Cheese,100,21
 2575,Delights Chicken Sausage, Egg Whites, & Cheese English Muffin,52,1
 1233,Baking Bar Ghirardelli 60% Cacao,17,13
 9694,Hickory Ham & Cheddar in a Croissant Crust,38,1
@@ -767,13 +767,13 @@ product_id,product_name,aisle_id,department_id
 44275,Mini Blueberry Muffins,93,3
 13105,Mens Rogaine Hair Regrowth Treatment Foam 3-Month Supply,22,11
 13535,Organic Medium Salsa,51,13
-40501,Salsa, Verde, Roasted,67,20
+40501,Salsa Verde, Roasted,67,20
 44322,Light & Fit Greek Crunch Key Lime Pie,120,16
-45315,Yogurt, Nonfat Russian,120,16
-38727,Merlot, Columbia Valley, 2007,28,5
+45315,Yogurt Nonfat Russian,120,16
+38727,Merlot Columbia Valley, 2007,28,5
 9236,White Cheddar Macaroni & Cheese,4,9
 11835,Moondance Kombucha,70,11
-47829,Horseradish, Cream, Hot,72,13
+47829,Horseradish Cream Hot,72,13
 35803,Homestyle Tart Cherry Lemonade Drink,98,7
 38943,Mac & Cheese Cups,4,9
 24368,Hot Wasabi Peas,66,6
@@ -801,7 +801,7 @@ product_id,product_name,aisle_id,department_id
 3716,Ratanhia Toothpaste,20,11
 26165,Electrolyte Enhanced Water,115,7
 26369,Organic Roma Tomato,83,4
-7145,Toothbrush Sanitizer, Snap-On, Fresh Mint Aroma,20,11
+7145,Toothbrush Sanitizer, Snap-On Fresh Mint Aroma,20,11
 30855,Chocolate Hazelnut Butter Blend,88,13
 23640,Fleur de Sel,17,13
 12619,Allergy Tablets,11,11
@@ -809,7 +809,7 @@ product_id,product_name,aisle_id,department_id
 28155,Premium Lager Beer,27,5
 4145,Organic Chicken Breast In Water,95,15
 26575,Cooked Classic Italian Sausage,106,12
-27881,Olives, Organic, Kalamata, Pitted,110,13
+27881,Olives Organic Kalamata Pitted,110,13
 7309,Frosted Mini Donuts,48,14
 20927,Alcohol Free NuStevia Liquid,17,13
 18984,Favorites Low-Fat Fudge Brownie Mix,105,13
@@ -837,7 +837,7 @@ product_id,product_name,aisle_id,department_id
 40869,Happy Hoppers Gummy Candy,100,21
 42515,Nilla Wafers Reduced Fat,61,19
 11752,Super Moist Vanilla Cake Mix,105,13
-19698,Egg Rolls, Pork,129,1
+19698,Egg Rolls Pork,129,1
 12884,Sweeper X-Large Floor Mop Starter Kit,114,17
 4725,Organic 3rd Foods Apples, Prunes & Oranges with Yogurt Baby Food Organic Purees Fruit with Yogurt,92,18
 25392,Plus Downy Clean Breeze Scent Liquid Laundry Detergent, 46 oz, 24 loads Laundry,75,17
@@ -898,7 +898,7 @@ product_id,product_name,aisle_id,department_id
 48684,Lemon Herb Asparagus Seasoning Sauce,5,13
 23780,VIA Instant Latte Vanilla Latte Instant Coffee,26,7
 34293,Blue Sugar Sprinkles,97,13
-43774,Kale Krunch, Organic, Tarragon Dijon,107,19
+43774,Kale Krunch Organic, Tarragon Dijon,107,19
 35761,Ultra Thin Slices Sharp Cheddar Cheese,21,16
 37027,Brazillian Keratin Therapy Conditioner,22,11
 4970,Little Bites Seasonal Favorites, Pumpkin Muffins,61,19
@@ -941,7 +941,7 @@ product_id,product_name,aisle_id,department_id
 34797,Apple Strawberry Juice,31,7
 31035,Ricotta & Parmigiano Tortellini,12,9
 19814,Green Tea With Ginseng And Honey,94,7
-4065,Bean, Cheese, Rice, Salsa Wrap,30,6
+4065,Bean, Cheese Rice, Salsa Wrap,30,6
 21187,Classic Macaroni & Beef in Tomato Sauce,38,1
 13912,VitaSea Juice,31,7
 44443,Sun-Dried Tomatoes In Extra Virgin Olive Oil,81,15
@@ -951,7 +951,7 @@ product_id,product_name,aisle_id,department_id
 44026,Safari Cocoa Crunch Cereal,121,14
 45594,Goats Milk Feta,21,16
 43960,PlugIns Scented Oil Pure Vanilla Joy Refills,101,17
-645,Prenatal One, Tablets,47,11
+645,Prenatal One Tablets,47,11
 22698,Americone Dream Ice Cream Cup,37,1
 47268,Lotzza Motzza Sausage Pizza,79,1
 14999,Grade A Large Brown Eggs,86,16
@@ -973,7 +973,7 @@ product_id,product_name,aisle_id,department_id
 6893,Apple Pear & Peach Squeezable Fruit,92,18
 12452,Gluten Free Orzo Pasta,131,9
 7338,Island Mango Premium Fruit Snacks,50,19
-8813,Sensitive Skin Stain Remover & Color Booster, 24 Loads,75,17
+8813,Sensitive Skin Stain Remover & Color Booster 24 Loads,75,17
 30171,Sonoma Veggie Burger,42,1
 49061,Artisan Goat Milk Ricotta Cheese,21,16
 14934,Pineapple Teriyaki Marinade,66,6

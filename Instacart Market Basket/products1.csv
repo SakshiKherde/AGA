@@ -155,7 +155,7 @@ product_id,product_name,aisle_id,department_id
 4244,MSM Sulfur Capsules,47,11
 46110,Triple Zero Cherry Greek Yogurt,100,21
 41763,Turkey Gravy Mix,5,13
-40125,Face Scrub, Original,109,11
+40125,Face Scrub Original,109,11
 20439,All Natural Almond Slices,117,19
 41383,Family Size Hearts of Romaine,123,4
 4029,Organic Corn Thins, Original,107,19
@@ -175,7 +175,7 @@ product_id,product_name,aisle_id,department_id
 11709,Milk Chocolate Coconut & Almonds Bar,45,19
 10531,Easy Quinoa Mushroom & Vegetable Medley,63,9
 49193,SmartBlend Chicken & Rice Formula Adult Dry Dog Food,40,8
-1793,Citrus Beverage, Sparkling, with Natural Pulp,77,7
+1793,Citrus Beverage Sparkling with Natural Pulp,77,7
 42459,Sinus-Max Pressure & Pain Relief,11,11
 9061,Italian Sausage & Rigatoni Pasta,38,1
 16099,Heart Healthy Italian Style White Bean & Chicken Sausage,69,15
@@ -269,7 +269,7 @@ product_id,product_name,aisle_id,department_id
 293,Prime Filets Chicken & Tuna Dinner in Gravy Cat Food,41,8
 23821,Organic Chili Spicy,59,15
 43747,Sport Anti Perspirant & Deodorant Gel,80,11
-5523,Super C, 1000 mg, Tablets,47,11
+5523,Super C 1000 mg, Tablets,47,11
 43010,Tomato Juice From Concentrate,98,7
 1600,Mediterranean Orzo Salad,1,20
 35130,French Chocolate Fat Free Ice Cream,37,1
@@ -295,7 +295,7 @@ product_id,product_name,aisle_id,department_id
 49625,Golden Wheat Deep Cleanse Shampoo,22,11
 29672,Lactose Free Low Fat Vanilla Yogurt,120,16
 12760,Organic Hojicha Green Tea,94,7
-45837,Truffles, Organic, Coconut Karma,45,19
+45837,Truffles Organic Coconut Karma,45,19
 31902,Urinary Health Extra Strength Liquid Cranberry,47,11
 41844,Honey Nut Cheerios,121,14
 38008,Beyond Grain Free Chicken & Sweet Potato Recipe Pate Cat Food,41,8
@@ -346,7 +346,7 @@ product_id,product_name,aisle_id,department_id
 509,Starting Solids Carrots Organic Baby Food,92,18
 24514,Fig Newtons Fat Free Cookies,61,19
 32510,Steak Seasoning & Rub,104,13
-4879,Milk, Fat Free,84,16
+4879,Milk Fat Free,84,16
 24613,Sweet Potato Puffs Cereal Snack,92,18
 14418,Ezekiel 4:9 Sprouted Grain Pasta Penne,131,9
 40138,Chocolate Chip Heart Thrive,8,3
@@ -370,7 +370,7 @@ product_id,product_name,aisle_id,department_id
 27047,Bloody Mary Cocktail Mix,6,2
 30701,Sweet & Salty Nut Chocolate Pretzel Nut Granola Bars,48,14
 34144,Whole Grain Buttermilk Pancake & Waffle Mix,130,14
-6068,Black Pepper, Fine Grind,104,13
+6068,Black Pepper Fine Grind,104,13
 1571,Trading Company All Natural Black Bean Spicy Dip,51,13
 38184,Poppy Bagels,52,1
 39585,Chinese Fried Rice Seasoning Mix,66,6
@@ -416,7 +416,7 @@ product_id,product_name,aisle_id,department_id
 11437,Gluten Free Blueberry Oat Muffin Tops,52,1
 7985,Gluten-Free Reduced Sodium Popcorn,23,19
 10601,My First Fluoride-Free Infant & Toddler Toothpaste Mild Fruit,20,11
-14669,Italian Pasta Sauce Basilico Tomato, Basil & Garlic,9,9
+14669,Italian Pasta Sauce Basilico Tomato Basil & Garlic,9,9
 43043,Tropical Fruit Salad, Organic, in Organic Pineapple & Passionfruit Fruit Juices,99,15
 10709,Non Dairy Chunky Monkey,37,1
 32623,Natural Raspberry Soda,77,7
